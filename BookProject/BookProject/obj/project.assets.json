@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\BookProject\\BookProject\\BookProject.csproj",
+      "projectUniqueName": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookProject\\BookProject.csproj",
       "projectName": "BookProject",
-      "projectPath": "C:\\GitHub\\BookProject\\BookProject\\BookProject.csproj",
+      "projectPath": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookProject\\BookProject.csproj",
       "packagesPath": "C:\\Users\\fluer\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\BookProject\\BookProject\\obj\\",
+      "outputPath": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fluer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\BookProject\\BookService\\BookService.csproj": {}
+    "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookService\\BookService.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\BookProject\\BookService\\BookService.csproj": {
+    "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookService\\BookService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\BookProject\\BookService\\BookService.csproj",
+        "projectUniqueName": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookService\\BookService.csproj",
         "projectName": "BookService",
-        "projectPath": "C:\\GitHub\\BookProject\\BookService\\BookService.csproj",
+        "projectPath": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookService\\BookService.csproj",
         "packagesPath": "C:\\Users\\fluer\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\BookProject\\BookService\\obj\\",
+        "outputPath": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fluer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ZcXa6FnUfjafHcllVOuSMRYehl60lSb4rDW2CSm67mZavexn2DAUx5j175+o0MKYpLTKIPuIWf7Z+BATGxl7g==",
+  "dgSpecHash": "E+ZFUoVGzyUMD7yggJnad2nVaKxv1rw188rVvxr8FOa3/zXsBWoLKHX0JNuuqWEGNQ1bT1Nl6wS0I6+MH+Qedg==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\BookProject\\BookProject\\BookProject.csproj",
+  "projectFilePath": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookProject\\BookProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

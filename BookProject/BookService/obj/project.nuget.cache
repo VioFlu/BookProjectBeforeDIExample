@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6TPvsDhLViYu1nkw/oEJrbNfDKPSHxeCieCnUwAo6rbiJjiFywtIGh1WgCwqiRYhNKwnDAL9RICRk9pYqOXm2w==",
+  "dgSpecHash": "KgilNxc9vtTlg1VaOeaud6quMqB4dyrOtySXys2mZiwgeNmKPAK8HqoNdaPGLEQpGpD7EDdk96t7Cf3+UshXqQ==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\BookProject\\BookService\\BookService.csproj",
+  "projectFilePath": "C:\\GitHub\\BookProjectBeforeDIExample\\BookProject\\BookService\\BookService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fluer\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\fluer\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
